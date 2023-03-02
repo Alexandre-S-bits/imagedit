@@ -1,5 +1,4 @@
 # Projeto: Pacote de Edição de Imagens
-## Autora do Projeto: Alexandre Silva
 ### Teste de criação de pacotes com o Pypi
 
 -----------------------------------------
