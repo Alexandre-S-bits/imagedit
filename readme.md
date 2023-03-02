@@ -20,8 +20,6 @@ O pacote "imagedit" é usado para:
 
 ## Instalação do pacote (hospedado no Pypi)
 
-Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ imagedit ```para instalar imagedit
-
 ```bash
 pip install imagedit
 ```
