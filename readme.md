@@ -1,5 +1,5 @@
 # Projeto: Pacote de Edição de Imagens
-### Teste de criação de pacotes com o Pypi
+### Teste de criação de pacotes para hospedagem no Pypi
 
 -----------------------------------------
 ### Descrição
